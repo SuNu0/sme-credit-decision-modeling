@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the repository."
+title: "中小微企业信贷决策数学建模"
+type: software
+authors:
+  - alias: "SuNu0"
+version: 0.1.0
+date-released: 2026-08-14
+license: MIT
+repository-code: "https://github.com/SuNu0/sme-credit-decision-modeling"
